@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **QuickStay – Hotel Booking Web App**
 - 🌱 I’m learning **DevOps and AWS**
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/dhirajjat)
-- 📫 How to reach me: **dhirajjat@example.com**
+- 📫 How to reach me: **dheerajjat9098@gmail.com**
 - 📝 I regularly post on [LinkedIn](https://www.linkedin.com)
 
 ---
