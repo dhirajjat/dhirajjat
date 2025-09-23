@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Jat</h1>
 <h3 align="center">A passionate MERN Stack Developer and Cloud Enthusiast</h3>
 
-- 🔭 I’m currently working on **QuickStay – Hotel Booking Web App**
+- 🔭 I’m currently working on **“BookKart is a MERN stack web app where users can buy, sell, or exchange books. It provides authentication, book listings, search functionality, and a smooth checkout process.”**
 - 🌱 I’m learning **DevOps and AWS**
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/dhirajjat)
 - 📫 How to reach me: **dheerajjat9098@gmail.com**
